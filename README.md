@@ -23,22 +23,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<div>
-      
+
+
+  <div>
     <a href="https://www.loom.com/share/b9158871494f43f5a00d2602e20fa1bc">
+      
+
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b9158871494f43f5a00d2602e20fa1bc-3a045fdb23ffc967-full-play.gif">
     </a>
   </div>
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 Describe any challenges encountered while building the app.
